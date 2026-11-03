@@ -1,0 +1,1 @@
+Place legally licensed .glb/.gltf assets here. game/js/assets.js includes a GLTFLoader registry and procedural fallback geometry.
